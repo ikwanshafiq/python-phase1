@@ -21,6 +21,6 @@ i = 1
 b = "*"
 while i < 10:
   print(b)
-  b = b + "*"
+  b = b + "#"
   i += 1
    
